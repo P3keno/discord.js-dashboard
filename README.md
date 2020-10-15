@@ -1,2 +1,6 @@
-# discord.js-dashboard
-Um exemplo de como fazer uma dashboard utilizando Discord.js, MongoDB e Express.
+# discord.js-dashboard (Em construção)
+
+## Feito
+[x] Login via Discord (OAuth2)
+[x] Lista de Guilds
+[] Página de configuração (Por guild)
